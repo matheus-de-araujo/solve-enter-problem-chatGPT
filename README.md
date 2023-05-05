@@ -18,7 +18,8 @@ it is an extension for google chrome that solves the problem when in chatgpt whe
 
 ## 📜 To view the source code
 
-To work with the code, it is necessary to have a code editor like [VSCode](https://code.visualstudio.com/).
+To work with the code, it is necessary to have a code editor like [VSCode](https://code.visualstudio.com/){:target="_blank"}.
+
 
 If you want to see the source code follow the steps below
 
