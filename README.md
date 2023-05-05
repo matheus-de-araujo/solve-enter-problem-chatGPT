@@ -13,13 +13,12 @@
 # ✏️ About this project
 it is an extension for google chrome that solves the problem when in chatgpt when clicking enter it does not send the answer correctly
 
----
+
 # 🚀 How to run the project
 
-To work with the code, it is necessary to have a code editor like [VSCode](https://code.visualstudio.com/).
-
----
 ## 📜 To view the source code
+
+To work with the code, it is necessary to have a code editor like [VSCode](https://code.visualstudio.com/).
 
 If you want to see the source code follow the steps below
 
@@ -29,7 +28,7 @@ If you want to see the source code follow the steps below
 $ git clone https://github.com/matheus-de-araujo/solve-enter-problem-chatGPT
 
 ```
----
+
 ## 🧪 To test the extension
 
 If you want to test the extension click [here](https://chrome.google.com/webstore/detail/notion-theme/olefdafjpbgbadodlogiecloeogkjhdo?hl=en-US).
@@ -44,5 +43,4 @@ The following tools were used in building the project:
 
 
 ---
-
 Made by: Matheus de Araújo 🇧🇷
