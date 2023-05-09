@@ -32,7 +32,7 @@ $ git clone https://github.com/matheus-de-araujo/solve-enter-problem-chatGPT
 
 ## 🧪 To test the extension
 
-If you want to test the extension click [here](https://chrome.google.com/webstore/detail/notion-theme/olefdafjpbgbadodlogiecloeogkjhdo?hl=en-US).
+If you want to test the extension click [here](https://chrome.google.com/webstore/detail/enter-solution-in-chatgpt/pacfnpicdjdbodjifeabhlgipjdlbnbd).
 
 ---
 # 🪛 Technologies
